@@ -1,0 +1,19 @@
+.card {
+  min-width: 600;
+  max-width: 600;
+  margin-bottom: 20;
+  margin-bottom: 2%;
+}
+
+.image {
+  margin-left: auto;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: fixed;
+  margin-top: 20px;
+  align-items: center;
+  width: 20%;
+  margin-left: -80px;
+}
